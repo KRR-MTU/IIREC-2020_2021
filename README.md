@@ -1,15 +1,7 @@
-"# IIREC-2020_2021" 
+# IIREC-2020_2021
 
 ### Rules for commiting code:
     pull BEFORE push
-    
-
-
-
-
-
-
-
 
 ### Git workflow
 Because of most of the reasons above, we use [Feature-branch-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow) with [Interactive Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing) and some elements of [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows#gitflow-workflow) (naming and having a develop branch). The main steps are as follows:
@@ -87,7 +79,7 @@ Because of most of the reasons above, we use [Feature-branch-workflow](https://w
     
     
 Setup for Windows Github Desktop UI:
-    Download Github Desktop from: https://desktop.github.com/
-    Open Github Desktop -> click file -> clone repository -> click URL and type https://github.com/KRR-MTU/IIREC-2020_2021 -> choose path -> click clone
+    > Download Github Desktop from: https://desktop.github.com/
+    > Open Github Desktop -> click file -> clone repository -> click URL and type https://github.com/KRR-MTU/IIREC-2020_2021 -> choose path -> click clone
     
     
